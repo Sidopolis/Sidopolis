@@ -2,7 +2,7 @@
 
 # sidhant _urf_ [sidopolis](https://github.com/Sidopolis) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-**`digital architect · building things across every layer of the stack and sometimes beyond it`**
+<h3>digital architect · building things across every layer of the stack and sometimes beyond it</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidhant-patro-581905233/)
 [![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/SidhantPatro)
@@ -22,9 +22,13 @@
 
 ### `> whoami` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22">
 
+<h4>
 devops engineer at work. full-stack builder after hours. game developer on weekends. 3d environment designer when inspiration hits. guitar player when nothing else works. also i make really good biryani.
+</h4>
 
+<h4>
 i don't pick lanes, i pick problems. shipped 65+ projects and the number keeps going up.
+</h4>
 
 <br/>
 
