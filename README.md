@@ -27,7 +27,7 @@ devops engineer at work. full-stack builder after hours. game developer on weeke
 </h4>
 
 <h4>
-i don't pick lanes, i pick problems. shipped 65+ projects and the number keeps going up.
+i don't pick lanes, always :D pick problems. shipped 65+ projects and the number keeps going up.
 </h4>
 
 <br/>
