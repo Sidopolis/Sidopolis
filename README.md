@@ -177,10 +177,6 @@ i don't pick lanes, always :D pick problems. shipped 65+ projects and the number
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidopolis&theme=react-dark&hide_border=true&area=true&color=00FFFF&line=00FFFF&point=FF6B6B" width="95%"/>
 </p>
 
-<div align="center">
-  <img src="https://i.imgur.com/83pL6Fk.gif" width="160" />
-</div>
-
 <br/>
 
 <p align="center">
